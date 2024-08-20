@@ -7,7 +7,7 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "tinybot.bin", "offset": 4096 }
+        { "path": "tinybot.bin", "offset": 0x1000 }
       ]
     }
   ]
