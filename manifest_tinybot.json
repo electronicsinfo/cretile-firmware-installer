@@ -1,12 +1,12 @@
 {
-  "name": "tinybot1",
+  "name": "tinybot2",
   "version": "1.1023",
   "home_assistant_domain": "slim_player",
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "firmware/tinybot.bin", "offset": 32768 }
+        { "path": "firmware/tinybot.bin", "offset": 0}
       ]
     }
   ]
