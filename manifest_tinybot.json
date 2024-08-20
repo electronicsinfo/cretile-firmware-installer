@@ -3,7 +3,6 @@
   "version": "1.1.0",
   "home_assistant_domain": "tinybot",
   "funding_url": "https://esphome.io/guides/supporters.html",
-  "new_install_prompt_erase": false,
   "builds": [
     {
       "chipFamily": "ESP32",
